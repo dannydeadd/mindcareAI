@@ -1,21 +1,3 @@
-# nFactorial Incubator Next.js Starter
-
-This is a starting point for your AI Next.js project. It comes with a landing page, user authentication, and a chatbot UI hooked up to the OpenAI API.
-
-## Where to start
-
-
-While in the project folder, launch the development server:
-```
-> pnpm i
-> npm run dev
-```
-App should now be available at [`http://localhost:3000`](http://localhost:3000).
-
-With any new commits to the repo, Vercel will automatically re-deploy the new version of the app, so you don't have to worry about deployments. Build away & have fun!
-
-***
-
 ### Frameworks
 
 - [Next.js](https://nextjs.org/) – React framework for building performant apps with the best developer experience
